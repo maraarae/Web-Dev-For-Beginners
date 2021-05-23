@@ -9,3 +9,35 @@ Identify a web site that you believe is NOT accessible, and create an action pla
 | Criteria       | Exemplary                                                                                                                                                      | Adequate                    | Needs Improvement           |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------------------------- |
 | student report | includes paragraphs on how the site is inadequate, the Lighthouse report captured as a pdf, a list of ten points to improve, with details on how to improve it | missing 20% of the required | missing 50% of the required |
+
+## Example
+[The Least Accessible Web Page](https://alphagov.github.io/accessibility-tool-audit/test-cases.html)
+
+[This example web page](https://alphagov.github.io/accessibility-tool-audit/test-cases.html) contains a total of 143 failures grouped into 19 categories.  The failures include things like images without alt attributes, or with the wrong alt attributes, and blank link text.
+
+### Lighthouse report
+embed pdf file here
+
+### Points to improve with details on how
+1. 
+    * 
+2. 
+    * 
+3. 
+    * 
+4. 
+    * 
+5. 
+    * 
+6. 
+    * 
+7. 
+    * 
+8. 
+    * 
+9. 
+    * 
+10. 
+    * 
+
+
